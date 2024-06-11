@@ -7,4 +7,70 @@
     android:id="@+id/recyclerView"
     android:layout_width="match_parent"
     android:layout_height="match_parent"/>
-</LinearLayout>
+
+
+<ImageView
+android:id="@+id/image"
+android:layout_width="276dp"
+android:layout_height="442dp"
+tools:layout_editor_absoluteX="58dp"
+tools:layout_editor_absoluteY="134dp" />
+
+
+<Button
+android:id="@+id/Jonathan"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Jonathan Pose"
+android:layout_marginBottom="30dp"/>
+
+<Button
+android:id="@+id/Joseph"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Joseph Pose"
+android:layout_marginBottom="30dp"/>
+
+<Button
+android:id="@+id/Jotaro"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Jotaro Pose"
+android:layout_marginBottom="30dp"/>
+
+<Button
+android:id="@+id/Josuke"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Josuke Pose"
+android:layout_marginBottom="30dp"/>
+
+<Button
+android:id="@+id/Giorno"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Giorno Pose"
+android:layout_marginBottom="30dp"/>
+
+<Button
+android:id="@+id/Joline"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Joline Pose"
+android:layout_marginBottom="30dp"/>
+
+<Button
+android:id="@+id/Johnny"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Johnny Pose"
+android:layout_marginBottom="30dp"/>
+
+<Button
+android:id="@+id/image"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="???"
+android:layout_marginBottom="30dp"/>
+    </LinearLayout>
+

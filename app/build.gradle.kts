@@ -35,6 +35,7 @@ android {
     }
     buildFeatures {
         viewBinding = true
+    }
 }
 
 dependencies {
@@ -49,4 +50,4 @@ dependencies {
     implementation("androidx.fragment:fragment-ktx:1.7.1")
     implementation ("com.squareup.picasso:picasso:2.8")
     implementation ("androidx.recyclerview:recyclerview:1.2.1")
-}}
+}
